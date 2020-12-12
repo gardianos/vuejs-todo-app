@@ -1,6 +1,4 @@
-## Vue
-## Vuex
-## Axios
+## Vue, Vuex, Axios
 
 
 ## Project setup
