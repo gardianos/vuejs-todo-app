@@ -1,6 +1,6 @@
-# Vue
-# Vuex
-# Axios
+## Vue
+## Vuex
+## Axios
 
 
 ## Project setup
@@ -8,7 +8,7 @@
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Run Project 
 ```
 npm run serve
 ```
